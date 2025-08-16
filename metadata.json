@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered SQL Practice Lab",
+  "description": "An interactive web application for practicing SQL queries. It uses AI to provide instant feedback, evaluate your answers, and simulate database results.",
+  "requestFramePermissions": []
+}
